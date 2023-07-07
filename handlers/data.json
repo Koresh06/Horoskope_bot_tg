@@ -1,0 +1,170 @@
+{
+    "Овен ♈": [
+        {
+            "Гороскоп на сегодня": "https://1001goroskop.ru//?znak=aries"
+        },
+        {
+            "Гороскоп на завтра": "https://1001goroskop.ru//?znak=aries&kn=tomorrow"
+        },
+        {
+            "Гороскоп на неделю": "https://1001goroskop.ru//?znak=aries&kn=week"
+        },
+        {
+            "Гороскоп на год": "https://1001goroskop.ru//?znak=aries&kn=year"
+        }
+    ],
+    "Телец ♉": [
+        {
+            "Гороскоп на сегодня": "https://1001goroskop.ru//?znak=taurus"
+        },
+        {
+            "Гороскоп на завтра": "https://1001goroskop.ru//?znak=taurus&kn=tomorrow"
+        },
+        {
+            "Гороскоп на неделю": "https://1001goroskop.ru//?znak=taurus&kn=week"
+        },
+        {
+            "Гороскоп на год": "https://1001goroskop.ru//?znak=taurus&kn=year"
+        }
+    ],
+    "Близнец ♊": [
+        {
+            "Гороскоп на сегодня": "https://1001goroskop.ru//?znak=gemini"
+        },
+        {
+            "Гороскоп на завтра": "https://1001goroskop.ru//?znak=gemini&kn=tomorrow"
+        },
+        {
+            "Гороскоп на неделю": "https://1001goroskop.ru//?znak=gemini&kn=week"
+        },
+        {
+            "Гороскоп на год": "https://1001goroskop.ru//?znak=gemini&kn=year"
+        }
+    ],
+    "Рак ♋": [
+        {
+            "Гороскоп на сегодня": "https://1001goroskop.ru//?znak=cancer"
+        },
+        {
+            "Гороскоп на завтра": "https://1001goroskop.ru//?znak=cancer&kn=tomorrow"
+        },
+        {
+            "Гороскоп на неделю": "https://1001goroskop.ru//?znak=cancer&kn=week"
+        },
+        {
+            "Гороскоп на год": "https://1001goroskop.ru//?znak=cancer&kn=year"
+        }
+    ],
+    "Лев ♈": [
+        {
+            "Гороскоп на сегодня": "https://1001goroskop.ru//?znak=leo"
+        },
+        {
+            "Гороскоп на завтра": "https://1001goroskop.ru//?znak=leo&kn=tomorrow"
+        },
+        {
+            "Гороскоп на неделю": "https://1001goroskop.ru//?znak=leo&kn=week"
+        },
+        {
+            "Гороскоп на год": "https://1001goroskop.ru//?znak=leo&kn=year"
+        }
+    ],
+    "Дева ♍": [
+        {
+            "Гороскоп на сегодня": "https://1001goroskop.ru//?znak=virgo"
+        },
+        {
+            "Гороскоп на завтра": "https://1001goroskop.ru//?znak=virgo&kn=tomorrow"
+        },
+        {
+            "Гороскоп на неделю": "https://1001goroskop.ru//?znak=virgo&kn=week"
+        },
+        {
+            "Гороскоп на год": "https://1001goroskop.ru//?znak=virgo&kn=year"
+        }
+    ],
+    "Весы ♎": [
+        {
+            "Гороскоп на сегодня": "https://1001goroskop.ru//?znak=libra"
+        },
+        {
+            "Гороскоп на завтра": "https://1001goroskop.ru//?znak=libra&kn=tomorrow"
+        },
+        {
+            "Гороскоп на неделю": "https://1001goroskop.ru//?znak=libra&kn=week"
+        },
+        {
+            "Гороскоп на год": "https://1001goroskop.ru//?znak=libra&kn=year"
+        }
+    ],
+    "Скорпион ♐": [
+        {
+            "Гороскоп на сегодня": "https://1001goroskop.ru//?znak=scorpio"
+        },
+        {
+            "Гороскоп на завтра": "https://1001goroskop.ru//?znak=scorpio&kn=tomorrow"
+        },
+        {
+            "Гороскоп на неделю": "https://1001goroskop.ru//?znak=scorpio&kn=week"
+        },
+        {
+            "Гороскоп на год": "https://1001goroskop.ru//?znak=scorpio&kn=year"
+        }
+    ],
+    "Стрелец ♐": [
+        {
+            "Гороскоп на сегодня": "https://1001goroskop.ru//?znak=sagittarius"
+        },
+        {
+            "Гороскоп на завтра": "https://1001goroskop.ru//?znak=sagittarius&kn=tomorrow"
+        },
+        {
+            "Гороскоп на неделю": "https://1001goroskop.ru//?znak=sagittarius&kn=week"
+        },
+        {
+            "Гороскоп на год": "https://1001goroskop.ru//?znak=sagittarius&kn=year"
+        }
+    ],
+    "Козерог ♑": [
+        {
+            "Гороскоп на сегодня": "https://1001goroskop.ru//?znak=capricorn"
+        },
+        {
+            "Гороскоп на завтра": "https://1001goroskop.ru//?znak=capricorn&kn=tomorrow"
+        },
+        {
+            "Гороскоп на неделю": "https://1001goroskop.ru//?znak=capricorn&kn=week"
+        },
+        {
+            "Гороскоп на год": "https://1001goroskop.ru//?znak=capricorn&kn=year"
+        }
+    ],
+    "Водолей ♒": [
+        {
+            "Гороскоп на сегодня": "https://1001goroskop.ru//?znak=aquarius"
+        },
+        {
+            "Гороскоп на завтра": "https://1001goroskop.ru//?znak=aquarius&kn=tomorrow"
+        },
+        {
+            "Гороскоп на неделю": "https://1001goroskop.ru//?znak=aquarius&kn=week"
+        },
+        {
+            "Гороскоп на год": "https://1001goroskop.ru//?znak=aquarius&kn=year"
+        }
+    ],
+    "Рыбы ♓": [
+        {
+            "Гороскоп на сегодня": "https://1001goroskop.ru//?znak=pisces"
+        },
+        {
+            "Гороскоп на завтра": "https://1001goroskop.ru//?znak=pisces&kn=tomorrow"
+        },
+        {
+            "Гороскоп на неделю": "https://1001goroskop.ru//?znak=pisces&kn=week"
+        },
+        {
+            "Гороскоп на год": "https://1001goroskop.ru//?znak=pisces&kn=year"
+        }
+    ]
+}
